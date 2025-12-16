@@ -1,4 +1,4 @@
-import pywhatkit as pwk
+import message as pwk
 
 # Define recipient details and message
 phone_number = "+9318458725"  # Ensure this includes a valid country code
