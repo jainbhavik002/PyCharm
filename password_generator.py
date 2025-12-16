@@ -1,7 +1,7 @@
 import random
 import string
 
-print("1. Numbers\n2. Letters\n3. Both")
+print("1. Numbers\n2. Words\n3. Both")
 choice = int(input("Enter your choice: "))
 length = int(input("Enter length: "))
 
@@ -25,4 +25,4 @@ else:
 for i in range(length):
     password += random.choice(chars)
 
-print("Password:", password)
+print("\nPassword:", password)
