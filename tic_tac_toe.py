@@ -56,7 +56,7 @@ def check_tie():
 
 # Setup window
 root = Tk()
-root.title("Bhavik's: Tic Tac Toe")
+root.title("Bhavik's Game: Tic Tac Toe")
 root.resizable(0, 0)
 
 # Create buttons
